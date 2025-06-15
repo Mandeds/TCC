@@ -1,0 +1,30 @@
+
+.Cabeçalho{
+    margin: 0%;
+    padding: 5%;
+    border: 0%;
+}
+
+#Logo{
+        padding: 1%;
+        margin: 1%;
+        width: 90px;
+        height: auto;
+    }
+
+
+#Logo_caixa{
+    display: flex;
+    justify-content: center;
+    box-shadow: inset;
+    width: 5%;
+    height: 5%;
+}
+
+.Inicio_principal{
+    height: auto;
+    width: 75%;
+    border-radius: 12px 12px 4px 4px;
+    background-color: rgb(233, 233, 233);
+
+}
