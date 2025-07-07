@@ -10,14 +10,16 @@ body{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    background-color: rgb(116, 75, 21);
 }
 
-header{
-    background-color: rgb(116, 75, 21);
+header{ 
     width: 100%;
     height: 100%;
     padding: 0.001rem;
+}
+
+a{
+    text-decoration: none;
 }
 
 #Pesquisa{
